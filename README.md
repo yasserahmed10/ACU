@@ -29,9 +29,14 @@ The Mind Map is divided into right (for the resources) and left (for the service
       3. [Sub-Communities](#sub-communities)
       4. [Networking](#networking)
       5. [Mutual Mentorship, Coaching and Tutoring](#mutual-mentorship-coaching-and-tutoring)
-      6. [Mentors](#mentors)
+      6. [Mentorship](#mentorship)
       7. [Events](#events)
    4. [Channels & Categories Onboarding](#channels--categories-onboarding)
+4. [About us](#about-us)
+   1. [Board Of Leaders](#board-of-leaders)
+   2. [Mentors](#mentors)
+   3. [Curriculum Maintainers](#curriculum-maintainers)
+   4. [Contributors](#contributors)
 
 ## Summary
 
@@ -225,7 +230,7 @@ They are all carried out in SUB-COMMUNITIES.
 2. @Trusted networking options are like @Students but extend to their exclusive channels.
 3. For beginners, pick an interactive channel where you can collaborate with others. internships, ps-grinding. For more advanced members, tackle questions in Q&A, especially life-after-grad.
 
-#### Mentors
+#### Mentorship
 
 Provided only under the "MENTORSHIP" Category.
 
@@ -286,3 +291,27 @@ Third-party events are available only on the Arabic ACU Server in recommended ev
     4. vacancies: Applications resources. Each application has a link and useful information (Company, Job, recruiters and hiring managers) to further facilitate your application chances.
     5. mutual-apply: Apply together at the same time to the same vacancy.
 12. ARCHIVE: Old channels replaced with way/channels of doing things or that does not have traffic anymore (E.g., gsoc is seasonal)
+
+## About us
+
+### Board Of Leaders
+
+| <img src="https://avatars.githubusercontent.com/u/51538094?v=4" alt="Alt text" width="150" height="150"> <details><summary>Omar Shawky</summary> <small>ACU Creator<br>[<img src="images/linkedin.svg" width="15"/>](https://www.linkedin.com/in/omarshawky1) [<img src="images/github.svg" width="15"/>](https://github.com/OmarShawky1) [<img src="images/website.svg" width="15"/>](https://omarshawky1.github.io/portfolio/) |
+|:-:|
+
+### Mentors
+
+|<img src="https://avatars.githubusercontent.com/u/23334080?v=4" alt="Alt text" width="150" height="150"><details><summary>Abdelhalim Zaki</summary> <small>DevOps Mentor</small> <br>[![](images/linkedin.svg)](https://www.linkedin.com/in/abdelhalimzaki/) [![](images/github.svg)](https://github.com/AhalimZaki)</details>|
+|:-:|
+
+### Curriculum Maintainers
+
+| <img src="https://avatars.githubusercontent.com/u/51538094?v=4" alt="Alt text" width="150" height="150"> <details><summary>Omar Shawky</summary> <small>ACU Creator<br>[<img src="images/linkedin.svg" width="15"/>](https://www.linkedin.com/in/omarshawky1) [<img src="images/github.svg" width="15"/>](https://github.com/OmarShawky1) [<img src="images/website.svg" width="15"/>](https://omarshawky1.github.io/portfolio/) | <img src="https://avatars.githubusercontent.com/u/40672207?v=44" alt="Alt text" width="150" height="150"> <details><summary>Abdallah Ahmed</summary> <small>Curriculum Maintainers</small> <br>[<img src="./images/linkedin.svg" width="15"/>](https://www.linkedin.com/in/xUser5000/) [<img src="./images/github.svg" width="15"/>](https://github.com/xUser5000) [<img src="images/website.svg" width="15"/>](https://xuser5000.hashnode.dev/)|
+|:-:|:-:|
+
+### Contributors
+
+| <img src="https://avatars.githubusercontent.com/u/51538094?v=4" alt="Alt text" width="150" height="150"> <details><summary>Omar Shawky</summary> <small>ACU Creator<br>[<img src="images/linkedin.svg" width="15"/>](https://www.linkedin.com/in/omarshawky1) [<img src="images/github.svg" width="15"/>](https://github.com/OmarShawky1) [<img src="images/website.svg" width="15"/>](https://omarshawky1.github.io/portfolio/) | <img src="https://avatars.githubusercontent.com/u/40672207?v=44" alt="Alt text" width="150" height="150"> <details><summary>Abdallah Ahmed</summary> <small>Curriculum Maintainers</small> <br>[<img src="./images/linkedin.svg" width="15"/>](https://www.linkedin.com/in/xUser5000/) [<img src="./images/github.svg" width="15"/>](https://github.com/xUser5000) [<img src="images/website.svg" width="15"/>](https://xuser5000.hashnode.dev/) | <img src="https://avatars.githubusercontent.com/u/12874707?v=4" alt="Alt text" width="150" height="150"><details><summary>Mohammed A. Gomma</summary> <small>Community Moderator<br><br>|<img src="https://avatars.githubusercontent.com/u/37001450?v=4" width="150" height="150"/><details><summary>Hussein Hany</summary><small>Community Moderator</small><br> [<img src="./images/linkedin.svg" width="15"/>](https://www.linkedin.com/in/3ein39/) [<img src="./images/github.svg" width="15"/>](https://github.com/3ein39) [<img src="images/website.svg" width="15"/>](https://3ein39.me/)
+|:-:|:-:|:-:|:-:|
+|<img src="./images/avatar.png" width="150" height="150"/><details><summary>Abdulrahman Al-Ghamdi</summary><small>Community Moderator</small><br><br>|<img src="https://avatars.githubusercontent.com/u/86894852?v=4" width="150" height="150"/><details><summary>Abdullah Elhadad</summary><small>Community Moderator</small><br><br>|<img src="./images/avatar.png" width="150" height="150"/><details><summary>Mohammed Ashraf</summary><small>Community Moderator</small><br><br>|<img src="./images/avatar.png" width="150" height="150"/><details><summary>Ramadan Yassin</summary><small>Community Moderator</small><br/><br/>|
+<img src="https://avatars.githubusercontent.com/u/29659555?v=4" height="150" width="150"/><article><details><summary>Ali Kehel</summary><small>Website Maintainer<br>[<img src="images/linkedin.svg" width="15"/>](https://www.linkedin.com/in/alikehel)[<img src="images/github.svg" width="15"/>](https://github.com/alikehel)|<img src="./images/avatar.png" width="150" height="150"/><details><summary>Abdoo Nasser</summary><small>Community Moderator</small><br><br>|
